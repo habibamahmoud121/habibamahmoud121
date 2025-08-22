@@ -1,4 +1,4 @@
-# Hi 👋 I'm Habiba Mahmoud
+# Hi I'm Habiba Mahmoud  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 🎓 Management Information Systems (MIS) student  
 🧠 Currently learning: Git & GitHub + Operating Systems Basics  
