@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Habiba Mahmoud
 
-<!--
-**habibamahmoud121/habibamahmoud121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems (MIS) student  
+🧠 Currently learning: Git & GitHub + Operating Systems Basics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Skills
+- Languages: C / Java (Basics)  
+- Tools: Git, VS Code, Excel  
+- Interests: Operating Systems, Data Analysis  
+
+---
+
+## 📌 Contact
+- 📧 Email:habibamahmoud1112005h@gmail.com  
+- 🐙 GitHub: https://github.com/habibamahmoud112
+
+---
+
+⭐ "Learning step by step, building my future with passion."
